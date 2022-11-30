@@ -1,0 +1,7 @@
+C:\Users\sanya\source\repos\Практична №1\Практична №1\bin\Debug\Практична №1.exe.config
+C:\Users\sanya\source\repos\Практична №1\Практична №1\bin\Debug\Практична №1.exe
+C:\Users\sanya\source\repos\Практична №1\Практична №1\bin\Debug\Практична №1.pdb
+C:\Users\sanya\source\repos\Практична №1\Практична №1\obj\Debug\Практична №1.csproj.AssemblyReference.cache
+C:\Users\sanya\source\repos\Практична №1\Практична №1\obj\Debug\Практична №1.csproj.CoreCompileInputs.cache
+C:\Users\sanya\source\repos\Практична №1\Практична №1\obj\Debug\Практична №1.exe
+C:\Users\sanya\source\repos\Практична №1\Практична №1\obj\Debug\Практична №1.pdb
