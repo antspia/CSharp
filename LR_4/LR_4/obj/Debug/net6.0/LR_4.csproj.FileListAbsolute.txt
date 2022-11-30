@@ -1,0 +1,15 @@
+C:\Users\sanya\source\repos\LR_4\LR_4\bin\Debug\net6.0\LR_4.exe
+C:\Users\sanya\source\repos\LR_4\LR_4\bin\Debug\net6.0\LR_4.deps.json
+C:\Users\sanya\source\repos\LR_4\LR_4\bin\Debug\net6.0\LR_4.runtimeconfig.json
+C:\Users\sanya\source\repos\LR_4\LR_4\bin\Debug\net6.0\LR_4.dll
+C:\Users\sanya\source\repos\LR_4\LR_4\bin\Debug\net6.0\LR_4.pdb
+C:\Users\sanya\source\repos\LR_4\LR_4\obj\Debug\net6.0\LR_4.csproj.AssemblyReference.cache
+C:\Users\sanya\source\repos\LR_4\LR_4\obj\Debug\net6.0\LR_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanya\source\repos\LR_4\LR_4\obj\Debug\net6.0\LR_4.AssemblyInfoInputs.cache
+C:\Users\sanya\source\repos\LR_4\LR_4\obj\Debug\net6.0\LR_4.AssemblyInfo.cs
+C:\Users\sanya\source\repos\LR_4\LR_4\obj\Debug\net6.0\LR_4.csproj.CoreCompileInputs.cache
+C:\Users\sanya\source\repos\LR_4\LR_4\obj\Debug\net6.0\LR_4.dll
+C:\Users\sanya\source\repos\LR_4\LR_4\obj\Debug\net6.0\refint\LR_4.dll
+C:\Users\sanya\source\repos\LR_4\LR_4\obj\Debug\net6.0\LR_4.pdb
+C:\Users\sanya\source\repos\LR_4\LR_4\obj\Debug\net6.0\LR_4.genruntimeconfig.cache
+C:\Users\sanya\source\repos\LR_4\LR_4\obj\Debug\net6.0\ref\LR_4.dll
